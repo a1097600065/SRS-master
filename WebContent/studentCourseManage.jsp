@@ -38,8 +38,7 @@
         <ul class="am-dropdown-content">
           <li><a href="#"><span class="am-icon-power-off"></span> 退出</a></li>
         </ul>
-      </li>
-      <li><a href="javascript:;" id="admin-fullscreen"><span class="am-icon-arrows-alt"></span> <span class="admin-fullText">开启全屏</span></a></li>
+      </li>     
     </ul>
   </div>
 </header>
@@ -53,14 +52,7 @@
       <li id="gradeSearch"><a href="gradeSearch.jsp"><span class="am-icon-table"></span> 成绩查询</a></li>
     </ul>
 
-    <div class="am-panel am-panel-default admin-sidebar-panel">
-      <div class="am-panel-bd">
-        <p><span class="am-icon-bookmark"></span> 公告</p>
-        <p>学生选课系统</p>
-      </div>
-    </div>
 
-  
   </div>
   <!-- sidebar end -->
 
@@ -110,19 +102,8 @@
             </tr>
           </tbody>
         </table>
-          <div class="am-cf">
-  共3条记录
-  <div class="am-fr">
-    <ul class="am-pagination">
-      <li class="am-disabled"><a href="#">«</a></li>
-      <li class="am-active"><a href="#">1</a></li>
-     
-      <li><a href="#">»</a></li>
-    </ul>
-  </div>
-</div>
-          <hr />
-          <p>注：.....</p>
+  <hr />
+          
         </form>
       </div>
 
